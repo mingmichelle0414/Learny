@@ -20,7 +20,7 @@
 
 <table cellpadding="0" cellspacing="0" style="border:none">
 <tr>
-<td width="52%" valign="top" style="padding-right:20px;padding-bottom:0;line-height:1.6">
+<td width="45%" valign="top" style="padding-right:20px;padding-bottom:0;line-height:1.6">
 
 **Learny** is a minimal macOS desktop app that combines:
 
@@ -48,8 +48,8 @@ Add, check off, delete quickly. **Move arrows** or **drag** from Anytime/Overdue
 Works with **Gemini**, **OpenAI**, or **Cerebras**. API keys stored **locally only**. Set a **custom system prompt** in Settings (warm friend, study buddy, productivity coach).  
 **☁️ iCloud sync & daily summary (optional)**    
 In **Settings → Advanced**, choose a **Daily summary & sync folder** (iCloud Drive recommended). Learny keeps `.studywithme-todos-sync.json` for sync and writes `studywithme-daily.md` with completed tasks. Manual export from Settings when you like.</td>
-<td width="48%" valign="top" style="padding-left:0;padding-bottom:0;vertical-align:top">
-<img src="demo_merged.png" alt="Learny – Main view & Chat" style="max-width:100%;width:100%;height:100%;display:block;margin:0;vertical-align:bottom;object-fit:cover;object-position:top"/>
+<td width="55%" valign="top" style="padding-left:0;padding-bottom:0;vertical-align:top">
+<img src="demo_merged.png" alt="Learny – Main view & Chat" style="max-width:100%;width:100%;min-width:680px;height:100%;display:block;margin:0;vertical-align:bottom;object-fit:cover;object-position:top"/>
 </td>
 </tr>
 </table>
