@@ -18,3 +18,7 @@ src-tauri/target/
 *.log
 *.tmp
 
+# Demo images and scripts (local use)
+*.png
+scripts/
+
