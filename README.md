@@ -1,6 +1,6 @@
-# StudywithMe
+# Learny
 
-StudywithMe is a macOS app that helps you study more efficiently and stay focused on your learning goals.
+Learny is a macOS app that helps you study more efficiently and stay focused on your learning goals.
 
 ## Features
 
@@ -15,16 +15,23 @@ StudywithMe is a macOS app that helps you study more efficiently and stay focuse
 2. In the latest release, find the `.dmg` installer under the **Assets** section.
 3. Download the `.dmg`, open it, and drag the app into your `Applications` folder.
 
-## How to Use StudywithMe Effectively
+## How to Use Learny Effectively
 
 - Set clear learning goals for each day.
 - Regularly review your progress and adjust your plan.
-- Use StudywithMe during focused study sessions and avoid multitasking.
+- Use Learny during focused study sessions and avoid multitasking.
 
 ## Development & Contributions
 
 - Repository: `https://github.com/mingmichelle0414/Learny`
 - Suggestions and improvements via Issues or Pull Requests are very welcome.
+
+## Issues & Feedback
+
+- If you find bugs or have feature requests, please open an Issue on GitHub:
+  - Go to the `Issues` tab of this repository.
+  - Create a new Issue with a clear title and description.
+  - Include your macOS version and Learny app version if relevant.
 
 ## Versions & Release Notes
 
