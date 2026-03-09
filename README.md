@@ -18,10 +18,6 @@
 
 ## Learny – A tiny study companion on your desktop
 
-<table cellpadding="0" cellspacing="0" style="border:none">
-<tr>
-<td width="45%" valign="top" style="padding-right:20px;padding-bottom:0;line-height:1.6">
-
 **Learny** is a minimal macOS desktop app that combines:
 
 - ⏱️ **Pomodoro** — 30‑minute focus timer  
@@ -31,7 +27,9 @@
 
 All in a small always‑on‑top window that stays with you while you study or work.
 
----
+<p align="center"><img src="demo_merged.png" alt="Learny – Main view & Chat" style="width:80%;max-width:80%;display:block;margin:1em auto"/></p>
+
+### Features
 
 **⏱️ Pomodoro (30 min)**  
 One‑click focus session. **Start / Pause / Reset**. A small “Time’s up” hint when done. Stays visible but unobtrusive.
@@ -47,12 +45,7 @@ Add, check off, delete quickly. **Move arrows** or **drag** from Anytime/Overdue
 **💬 Friendly AI chat (“Say something?”)**  
 Works with **Gemini**, **OpenAI**, or **Cerebras**. API keys stored **locally only**. Set a **custom system prompt** in Settings (warm friend, study buddy, productivity coach).  
 **☁️ iCloud sync & daily summary (optional)**    
-In **Settings → Advanced**, choose a **Daily summary & sync folder** (iCloud Drive recommended). Learny keeps `.studywithme-todos-sync.json` for sync and writes `studywithme-daily.md` with completed tasks. Manual export from Settings when you like.</td>
-<td width="55%" valign="top" style="padding-left:0;padding-bottom:0;vertical-align:top">
-<img src="demo_merged.png" alt="Learny – Main view & Chat" style="max-width:100%;width:100%;min-width:680px;height:100%;display:block;margin:0;vertical-align:bottom;object-fit:cover;object-position:top"/>
-</td>
-</tr>
-</table>
+In **Settings → Advanced**, choose a **Daily summary & sync folder** (iCloud Drive recommended). Learny keeps `.studywithme-todos-sync.json` for sync and writes `studywithme-daily.md` with completed tasks. Manual export from Settings when you like.
 
 ---
 
