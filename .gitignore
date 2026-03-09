@@ -20,5 +20,6 @@ src-tauri/target/
 
 # Demo images and scripts (local use)
 *.png
+!demo_merged.png
 scripts/
 
