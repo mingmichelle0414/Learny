@@ -1,0 +1,20 @@
+# Ignore macOS DMG installers and app bundles
+*.dmg
+*.pkg
+*.iso
+*.zip
+
+# Node / frontend dependencies and builds
+node_modules/
+dist/
+
+# Tauri / Rust build output
+src-tauri/target/
+
+# macOS system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
